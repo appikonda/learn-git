@@ -1,8 +1,11 @@
 # learn-git
 
+<<<<<<< HEAD
 create new branches --> git checkout -b "dev"
+
+=======
 
 concept of p4...
 
 getting started
-
+>>>>>>> new_feature_p4
